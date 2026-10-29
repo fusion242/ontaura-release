@@ -2,8 +2,17 @@
 
 **A semantic data platform for connected operations.**
 
-Ontaura is a software platform for managing, connecting and understanding operational data. It provides an established foundation for building applications that work with real-world information, including people, assets, locations, events, documents and time-series data.
+Ontaura is a software platform for managing, connecting and understanding operational information. It combines an ontology-powered knowledge graph with time-series data management and support for documents and multimedia, providing a unified foundation for building applications around real-world operations.
 
+The platform connects three fundamental types of information:
+
+Structured operational data: People, assets, locations, events, attributes and relationships, organised through a configurable semantic model.
+Time-series data and telemetry: Historical and continuously collected measurements from sensors, devices and operational systems, linked to the assets and environments they represent.
+Documents and multimedia: Reports, technical drawings, photographs, videos and other files associated with operational entities.
+
+By bringing these together, Ontaura enables developers and organisations to build applications that understand not only individual pieces of information, but also their relationships, history and operational context.
+
+Ontaura can be used directly to manage operational data, customised for an organisation's requirements, or adopted as the foundation for developing entirely new applications, including AI agents, predictive analytics and intelligent automation.
 At its core, Ontaura uses an ontology-powered knowledge graph to represent entities, their attributes and the relationships between them. This allows information from different sources to be organised within a consistent model, preserving the context needed for operational applications, analytics, automation and AI.
 
 ## Who is Ontaura for?
